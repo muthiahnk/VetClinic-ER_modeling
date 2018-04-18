@@ -2,7 +2,7 @@
 Implementation of a Database for a Clinic to keep track of the information about appointments, owners, pets and the services offered
 
 ## Company Background
-The Ark Veterinary Clinic is a local veterinary clinic company founded in 1996 in Chennai, INDIA. It started out as a small facility, and gradually grew upon good reviews from veterinarians in the area. The Ark Veterinary Clinic currently has around 20 employees. This consists of 15 regular staff and 5 veterinarians. The clinic contains state of the art medical, surgical and lab equipment. This clinic offers a variety of services serving to all clientele commonly found in households such as dogs, cats and birds. Here is a list of services currently offered:
+  The Ark Veterinary Clinic is a local veterinary clinic company founded in 1996 in Chennai, INDIA. It started out as a small facility, and gradually grew upon good reviews from veterinarians in the area. The Ark Veterinary Clinic currently has around 20 employees. This consists of 15 regular staff and 5 veterinarians. The clinic contains state of the art medical, surgical and lab equipment. This clinic offers a variety of services serving to all clientele commonly found in households such as dogs, cats and birds. Here is a list of services currently offered:
 ●	Annual Examination
 ●	Orthopedics
 ●	Diagnostic and Lab Procedure
@@ -19,9 +19,9 @@ Here is the procedure by which the veterinary clinic operates and provides servi
 ●	The vet clinic will also offer boarding services with specific rates based on the type of animals and the duration of stay.
 
 ## Current Issues and Solution:
-Currently the organization is using paperwork/ledger system to keep track of the information about the appointments, owner, pet and the services offered for each of the customers during their visit. This type of system to track the information would be useful when the number of customers is small, but as the customer base grows it will be very difficult to track. Also, it would not be quickly accessible and we can lose information about the customer or the services done. In other words, we cannot have a good control over the data. To solve this purpose, I have created a database which has the following advantages:
-●	Keeping better tracking of past and present records
-●	Ability to update client information
-●	Quick accessibility is one of the main issues that is prevailing
-●	We can avoid redundancy in the customer information
-●	Increased security
+  Currently the organization is using paperwork/ledger system to keep track of the information about the appointments, owner, pet and the services offered for each of the customers during their visit. This type of system to track the information would be useful when the number of customers is small, but as the customer base grows it will be very difficult to track. Also, it would not be quickly accessible and we can lose information about the customer or the services done. In other words, we cannot have a good control over the data. To solve this purpose, I have created a database which has the following advantages:
+  ●	Keeping better tracking of past and present records
+  ●	Ability to update client information
+  ●	Quick accessibility is one of the main issues that is prevailing
+  ●	We can avoid redundancy in the customer information
+  ●	Increased security
