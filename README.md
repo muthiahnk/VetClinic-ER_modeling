@@ -3,6 +3,7 @@ Implementation of a Database for a Clinic to keep track of the information about
 
 ## Company Background
   The Ark Veterinary Clinic is a local veterinary clinic company founded in 1996 in Chennai, INDIA. It started out as a small facility, and gradually grew upon good reviews from veterinarians in the area. The Ark Veterinary Clinic currently has around 20 employees. This consists of 15 regular staff and 5 veterinarians. The clinic contains state of the art medical, surgical and lab equipment. This clinic offers a variety of services serving to all clientele commonly found in households such as dogs, cats and birds. Here is a list of services currently offered:
+
 ●	Annual Examination
 ●	Orthopedics
 ●	Diagnostic and Lab Procedure
